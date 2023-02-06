@@ -46,7 +46,17 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": [
+        8
+      ]
+    },
+    {
+      "name": "Blah",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rubber_Duck_in_Parramatta_Park.jpg/800px-Rubber_Duck_in_Parramatta_Park.jpg",
+      "likes": [
+        30
+      ],
+      "id": 9
     }
   ]
 }
